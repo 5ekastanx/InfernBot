@@ -30,7 +30,6 @@ python manage.py runserver
 # Start the Telegram bot
 python manage.py runtgbot.
 ```
-```
 
 ## 📢 Contributors
 - [5ekastan](https://instagram.com/5ekastan) 🌟
