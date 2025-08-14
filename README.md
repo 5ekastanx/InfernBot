@@ -2,7 +2,7 @@
 
 ## 🌟 Overview   
 Welcome to **InfernBot**, a Django project that seamlessly combines the power of **Django**, **Django Rest Framework**, and **PyTelegramBotApi** to create a versatile Telegram bot capable of handling notes and more. 📋✨   
- 
+  
 ## 🎉 Features
 - 📒 **Note Creation**: InfernBot allows users to create and manage notes through a Telegram interface. 📝 
 - 📚 **Educational Example**: Originally developed as an educational resource, this project serves as a great example of integrating Django and Telegram Bot functionalities. 💡🔧
